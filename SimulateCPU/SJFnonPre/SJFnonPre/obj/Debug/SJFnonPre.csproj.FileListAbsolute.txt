@@ -1,0 +1,8 @@
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\bin\Debug\SJFnonPre.exe.config
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\bin\Debug\SJFnonPre.exe
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\bin\Debug\SJFnonPre.pdb
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\obj\Debug\SJFnonPre.csproj.AssemblyReference.cache
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\obj\Debug\SJFnonPre.csproj.SuggestedBindingRedirects.cache
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\obj\Debug\SJFnonPre.csproj.CoreCompileInputs.cache
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\obj\Debug\SJFnonPre.exe
+D:\HeDieuHanh\SimulateCPU\SJFnonPre\SJFnonPre\obj\Debug\SJFnonPre.pdb

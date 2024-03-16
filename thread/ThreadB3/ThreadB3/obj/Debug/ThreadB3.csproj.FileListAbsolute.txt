@@ -1,0 +1,15 @@
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\bin\Debug\ThreadB3.exe.config
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\bin\Debug\ThreadB3.exe
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\bin\Debug\ThreadB3.pdb
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\obj\Debug\ThreadB3.csproj.AssemblyReference.cache
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\obj\Debug\ThreadB3.csproj.CoreCompileInputs.cache
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\obj\Debug\ThreadB3.exe
+C:\Users\ICT\source\repos\ThreadB3\ThreadB3\obj\Debug\ThreadB3.pdb
+D:\ThreadB3\ThreadB3\bin\Debug\ThreadB3.exe.config
+D:\ThreadB3\ThreadB3\bin\Debug\ThreadB3.exe
+D:\ThreadB3\ThreadB3\bin\Debug\ThreadB3.pdb
+D:\ThreadB3\ThreadB3\obj\Debug\ThreadB3.csproj.AssemblyReference.cache
+D:\ThreadB3\ThreadB3\obj\Debug\ThreadB3.csproj.SuggestedBindingRedirects.cache
+D:\ThreadB3\ThreadB3\obj\Debug\ThreadB3.csproj.CoreCompileInputs.cache
+D:\ThreadB3\ThreadB3\obj\Debug\ThreadB3.exe
+D:\ThreadB3\ThreadB3\obj\Debug\ThreadB3.pdb

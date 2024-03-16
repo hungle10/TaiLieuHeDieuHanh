@@ -1,0 +1,8 @@
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\bin\Debug\bai2.exe.config
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\bin\Debug\bai2.exe
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\bin\Debug\bai2.pdb
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\obj\Debug\bai2.csproj.SuggestedBindingRedirects.cache
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\obj\Debug\bai2.exe
+D:\HeDieuHanh\Bai2LabMultiThread\bai2\bai2\obj\Debug\bai2.pdb

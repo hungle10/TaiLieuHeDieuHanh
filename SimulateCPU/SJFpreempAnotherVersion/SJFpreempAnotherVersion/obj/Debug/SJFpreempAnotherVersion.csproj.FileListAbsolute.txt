@@ -1,0 +1,8 @@
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\bin\Debug\SJFpreempAnotherVersion.exe.config
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\bin\Debug\SJFpreempAnotherVersion.exe
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\bin\Debug\SJFpreempAnotherVersion.pdb
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\obj\Debug\SJFpreempAnotherVersion.csproj.AssemblyReference.cache
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\obj\Debug\SJFpreempAnotherVersion.csproj.SuggestedBindingRedirects.cache
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\obj\Debug\SJFpreempAnotherVersion.csproj.CoreCompileInputs.cache
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\obj\Debug\SJFpreempAnotherVersion.exe
+D:\HeDieuHanh\SimulateCPU\SJFpreempAnotherVersion\SJFpreempAnotherVersion\obj\Debug\SJFpreempAnotherVersion.pdb

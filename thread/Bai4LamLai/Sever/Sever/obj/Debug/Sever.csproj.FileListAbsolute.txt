@@ -1,0 +1,8 @@
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\bin\Debug\Sever.exe.config
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\bin\Debug\Sever.exe
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\bin\Debug\Sever.pdb
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\obj\Debug\Sever.csproj.SuggestedBindingRedirects.cache
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\obj\Debug\Sever.exe
+D:\HeDieuHanh\Bai4LamLai\Sever\Sever\obj\Debug\Sever.pdb

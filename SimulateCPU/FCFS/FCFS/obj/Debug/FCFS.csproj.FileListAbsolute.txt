@@ -1,0 +1,8 @@
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\bin\Debug\FCFS.exe.config
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\bin\Debug\FCFS.exe
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\bin\Debug\FCFS.pdb
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\obj\Debug\FCFS.csproj.AssemblyReference.cache
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\obj\Debug\FCFS.csproj.SuggestedBindingRedirects.cache
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\obj\Debug\FCFS.csproj.CoreCompileInputs.cache
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\obj\Debug\FCFS.exe
+D:\HeDieuHanh\SimulateCPU\FCFS\FCFS\obj\Debug\FCFS.pdb

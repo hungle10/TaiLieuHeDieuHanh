@@ -1,0 +1,8 @@
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\bin\Debug\bai3.exe.config
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\bin\Debug\bai3.exe
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\bin\Debug\bai3.pdb
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\obj\Debug\bai3.csproj.SuggestedBindingRedirects.cache
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\obj\Debug\bai3.exe
+D:\HeDieuHanh\Bai3LabMultiThread\bai3\bai3\obj\Debug\bai3.pdb
